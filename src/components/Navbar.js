@@ -24,7 +24,7 @@ export default function Navbar(props){
                   Computer Science
                 </a>
                 <ul className="dropdown-menu">
-                  <li><a className="dropdown-item" href="/">Coding</a></li>
+                  <li><a className="dropdown-item" href="/">My coding</a></li>
                   <li><a className="dropdown-item" href="/">Non-Coding</a></li>
                   <li><a className="dropdown-item" href="/">Extra Coding</a></li>
                   <li><hr className="dropdown-divider"/></li>
